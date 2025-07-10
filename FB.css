@@ -18,6 +18,8 @@ margin: 0 auto;
 max-width: 320px;
 margin-top:30px;
 }
+img{user-select: none;
+}
 
 button{width: 100px;
 border-radius: 5px;
